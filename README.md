@@ -1,17 +1,14 @@
 # Text Analytics with NLP
 
-## 📁 디렉토리 구조
+## RAG 프로젝트 진행 단계
 
-- `01_Text_Preprocessing`: 텍스트 전처리 실습
-- `02_Modeling`: BM25, RAG 등 모델링 실습
-- `03_ChatGPT_API`: ChatGPT 및 LangChain 실습
-- `04_Vector_Database`: 벡터 데이터베이스 실습
-- `etc`: 기타 연습 파일
-
+- `1차 dataset`: dataset 각 100개씩 샘플 생성
+- `1차 모델`: HuggingFace Trainer 모델 확보
+- `2차 모델`: HuggingFace SFTTrainer + DataCollator 모델 확보
+  
 ## 🚀 사용 기술
 - Python
+- Runpod / RTX4090
 - Colab / Jupyter Notebook
 - HuggingFace Transformers
-- LangChain
-- OpenAI API
 
