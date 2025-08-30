@@ -1,4 +1,4 @@
-# Text Analytics with NLP
+# Rag Finetuing
 
 ## RAG 프로젝트 진행 단계
 
