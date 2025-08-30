@@ -1,7 +1,5 @@
 # Text Analytics with NLP
 
-Colab 실습 기반의 NLP 프로젝트입니다.
-
 ## 📁 디렉토리 구조
 
 - `01_Text_Preprocessing`: 텍스트 전처리 실습
@@ -17,9 +15,3 @@ Colab 실습 기반의 NLP 프로젝트입니다.
 - LangChain
 - OpenAI API
 
-
----
-
-## 📬 Contact
-
-실습 노트북에 대한 질문이나 제안이 있다면 [GitHub Issues](https://github.com/lizardnote/Text-Analytics/issues)를 통해 남겨주세요!
